@@ -1,0 +1,30 @@
+.headerOption {
+    display: flex;
+    align-items: center;
+    height: 40px;
+    padding: 0 10px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    cursor: pointer;
+    color: #A8B0BC;
+}
+
+
+.headerOption > h3 {
+    margin-top: 20%;
+    margin-left: 34px;
+    font-weight: 400;
+    font-family: Poppins;
+    width: 20%;
+height: 100%;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+color: #2C3539;
+}
+
+.headerOption--active > h3 {
+    color: #2B83EA;
+    width: 100%;
+}

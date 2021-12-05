@@ -1,0 +1,39 @@
+.navbar {
+    height: 50px;
+    width: 80vw;
+    display: flex;
+background: #FFFFFF;
+}
+
+.navbar-left {
+    width: 25%;
+}
+
+.navbar-right {
+    /* background-color: darkorchid; */
+    width: 35%;
+    height: 90%;
+    margin-left: auto;
+    margin-right: 5%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 1%;
+}
+
+#last {
+    display: flex;
+    justify-content: space-evenly;
+    width: 25px;
+height: 25px;
+}
+
+.sidelogo {
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 45px;
+color: #23304C;
+mix-blend-mode: normal;
+opacity: 0.9;
+}

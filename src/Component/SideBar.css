@@ -1,0 +1,36 @@
+.sidebar {
+    width: 20vw;
+    height: 100vh; 
+background: #23304C;
+}
+
+.logo {
+    margin-top: 12%;
+    align-content: center;
+    height: 5%;
+    width: 100%;
+}
+
+.button {
+    height: 70%;
+    margin-top: 15%;
+    /* align-items: center; */
+    margin-left: 10%;
+    /* background-color: rgb(100, 31, 31); */
+}
+
+.logo-name1 {
+    height: 90%;
+}
+
+.logo-name {
+    height: 60%;    
+}
+
+.logo-namep {
+    height: 80%;
+}
+
+.logo-namelast {
+    height: 20%;
+}
